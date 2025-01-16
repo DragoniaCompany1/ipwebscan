@@ -1,7 +1,7 @@
 
-# WebScan
+# ipwebscan
 
-![WebScan Banner](Banner.jpg)
+![ipwebscan Banner](Banner.jpg)
 
 ![Version](https://img.shields.io/badge/version-1.0(Beta)-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.7+-blue)
@@ -24,12 +24,12 @@
 
 ## 🚀 Installation
 
-Follow the steps below to install **WebScan** on Linux or Termux:
+Follow the steps below to install **IpWebScan** on Linux or Termux:
 
 ### **Using `Makefile` (Recommended):**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dragonia/ipwebscan
+   git clone https://github.com/DragoniaCompany1/ipwebscan
    cd WebScan
    ```
 2. Run the command:
@@ -40,7 +40,7 @@ Follow the steps below to install **WebScan** on Linux or Termux:
 ### **Without `Makefile`:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wanzxploit/WebScan.git
+   git clone https://github.com/DragoniaCompany1/ipwebscan
    cd WebScan
    ```
 2. Run the installation script:
@@ -95,7 +95,7 @@ WebScan/
 ---
 
 ## 🧑‍💻 Developed by
-- **Name**: Wanz Xploit
-- **GitHub**: [wanzxploit](https://github.com/wanzxploit)
+- **Name**: Mr-04
+- **GitHub**: [Dragonia Company](https://github.com/DragoniaCompany1)
 
 ---
