@@ -96,6 +96,6 @@ WebScan/
 
 ## 🧑‍💻 Developed by
 - **Name**: Mr-04
-- **GitHub**: [Dragonia Company](https://github.com/DragoniaCompany1)
+- **GitHub**: [DragoniaCompany1](https://github.com/DragoniaCompany1)
 
 ---
